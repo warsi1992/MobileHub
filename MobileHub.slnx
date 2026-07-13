@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MobileHub.API/MobileHub.API.csproj" />
+  <Project Path="MobileHub.Application/MobileHub.Application.csproj" />
+  <Project Path="MobileHub.Domain/MobileHub.Domain.csproj" />
+  <Project Path="MobileHub.Infrastructure/MobileHub.Infrastructure.csproj" />
+</Solution>

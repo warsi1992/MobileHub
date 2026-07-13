@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MobileHub.API\\MobileHub.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MobileHub.Infrastructure\\MobileHub.Infrastructure.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
