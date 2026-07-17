@@ -67,7 +67,7 @@ app.UseCors("Angular");
 app.UseAuthentication();
 
 app.UseAuthorization();
-
+app.MapGet("/", () => "MobileHub API is running successfully!");
 app.MapControllers();
 
 app.Run();
