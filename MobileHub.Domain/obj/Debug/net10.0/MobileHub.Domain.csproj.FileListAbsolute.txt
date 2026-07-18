@@ -1,11 +1,23 @@
-C:\New folder\MobileHub.Domain\bin\Debug\net10.0\MobileHub.Domain.deps.json
-C:\New folder\MobileHub.Domain\bin\Debug\net10.0\MobileHub.Domain.dll
-C:\New folder\MobileHub.Domain\bin\Debug\net10.0\MobileHub.Domain.pdb
-C:\New folder\MobileHub.Domain\obj\Debug\net10.0\MobileHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\New folder\MobileHub.Domain\obj\Debug\net10.0\MobileHub.Domain.AssemblyInfoInputs.cache
-C:\New folder\MobileHub.Domain\obj\Debug\net10.0\MobileHub.Domain.AssemblyInfo.cs
-C:\New folder\MobileHub.Domain\obj\Debug\net10.0\MobileHub.Domain.csproj.CoreCompileInputs.cache
-C:\New folder\MobileHub.Domain\obj\Debug\net10.0\MobileHub.Domain.dll
-C:\New folder\MobileHub.Domain\obj\Debug\net10.0\refint\MobileHub.Domain.dll
-C:\New folder\MobileHub.Domain\obj\Debug\net10.0\MobileHub.Domain.pdb
-C:\New folder\MobileHub.Domain\obj\Debug\net10.0\ref\MobileHub.Domain.dll
+C:/New folder/MobileHub.Domain/bin/Debug/net10.0/MobileHub.Domain.deps.json
+C:/New folder/MobileHub.Domain/bin/Debug/net10.0/MobileHub.Domain.dll
+C:/New folder/MobileHub.Domain/bin/Debug/net10.0/MobileHub.Domain.pdb
+C:/New folder/MobileHub.Domain/obj/Debug/net10.0/MobileHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/New folder/MobileHub.Domain/obj/Debug/net10.0/MobileHub.Domain.AssemblyInfoInputs.cache
+C:/New folder/MobileHub.Domain/obj/Debug/net10.0/MobileHub.Domain.AssemblyInfo.cs
+C:/New folder/MobileHub.Domain/obj/Debug/net10.0/MobileHub.Domain.csproj.CoreCompileInputs.cache
+C:/New folder/MobileHub.Domain/obj/Debug/net10.0/MobileHub.Domain.dll
+C:/New folder/MobileHub.Domain/obj/Debug/net10.0/refint/MobileHub.Domain.dll
+C:/New folder/MobileHub.Domain/obj/Debug/net10.0/MobileHub.Domain.pdb
+C:/New folder/MobileHub.Domain/obj/Debug/net10.0/ref/MobileHub.Domain.dll
+/workspaces/MobileHub/MobileHub.Domain/bin/Debug/net10.0/MobileHub.Domain.deps.json
+/workspaces/MobileHub/MobileHub.Domain/bin/Debug/net10.0/MobileHub.Domain.dll
+/workspaces/MobileHub/MobileHub.Domain/bin/Debug/net10.0/MobileHub.Domain.pdb
+/workspaces/MobileHub/MobileHub.Domain/obj/Debug/net10.0/MobileHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MobileHub/MobileHub.Domain/obj/Debug/net10.0/MobileHub.Domain.AssemblyInfoInputs.cache
+/workspaces/MobileHub/MobileHub.Domain/obj/Debug/net10.0/MobileHub.Domain.AssemblyInfo.cs
+/workspaces/MobileHub/MobileHub.Domain/obj/Debug/net10.0/MobileHub.Domain.csproj.CoreCompileInputs.cache
+/workspaces/MobileHub/MobileHub.Domain/obj/Debug/net10.0/MobileHub.Domain.sourcelink.json
+/workspaces/MobileHub/MobileHub.Domain/obj/Debug/net10.0/MobileHub.Domain.dll
+/workspaces/MobileHub/MobileHub.Domain/obj/Debug/net10.0/refint/MobileHub.Domain.dll
+/workspaces/MobileHub/MobileHub.Domain/obj/Debug/net10.0/MobileHub.Domain.pdb
+/workspaces/MobileHub/MobileHub.Domain/obj/Debug/net10.0/ref/MobileHub.Domain.dll
