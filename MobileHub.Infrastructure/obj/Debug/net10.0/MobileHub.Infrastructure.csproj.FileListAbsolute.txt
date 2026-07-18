@@ -1,19 +1,39 @@
-C:\New folder\MobileHub.Infrastructure\bin\Debug\net10.0\MobileHub.Infrastructure.deps.json
-C:\New folder\MobileHub.Infrastructure\bin\Debug\net10.0\MobileHub.Infrastructure.runtimeconfig.json
-C:\New folder\MobileHub.Infrastructure\bin\Debug\net10.0\MobileHub.Infrastructure.dll
-C:\New folder\MobileHub.Infrastructure\bin\Debug\net10.0\MobileHub.Infrastructure.pdb
-C:\New folder\MobileHub.Infrastructure\bin\Debug\net10.0\MobileHub.Application.dll
-C:\New folder\MobileHub.Infrastructure\bin\Debug\net10.0\MobileHub.Domain.dll
-C:\New folder\MobileHub.Infrastructure\bin\Debug\net10.0\MobileHub.Domain.pdb
-C:\New folder\MobileHub.Infrastructure\bin\Debug\net10.0\MobileHub.Application.pdb
-C:\New folder\MobileHub.Infrastructure\obj\Debug\net10.0\MobileHub.Infrastructure.csproj.AssemblyReference.cache
-C:\New folder\MobileHub.Infrastructure\obj\Debug\net10.0\MobileHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\New folder\MobileHub.Infrastructure\obj\Debug\net10.0\MobileHub.Infrastructure.AssemblyInfoInputs.cache
-C:\New folder\MobileHub.Infrastructure\obj\Debug\net10.0\MobileHub.Infrastructure.AssemblyInfo.cs
-C:\New folder\MobileHub.Infrastructure\obj\Debug\net10.0\MobileHub.Infrastructure.csproj.CoreCompileInputs.cache
-C:\New folder\MobileHub.Infrastructure\obj\Debug\net10.0\MobileHu.BDF83086.Up2Date
-C:\New folder\MobileHub.Infrastructure\obj\Debug\net10.0\MobileHub.Infrastructure.dll
-C:\New folder\MobileHub.Infrastructure\obj\Debug\net10.0\refint\MobileHub.Infrastructure.dll
-C:\New folder\MobileHub.Infrastructure\obj\Debug\net10.0\MobileHub.Infrastructure.pdb
-C:\New folder\MobileHub.Infrastructure\obj\Debug\net10.0\MobileHub.Infrastructure.genruntimeconfig.cache
-C:\New folder\MobileHub.Infrastructure\obj\Debug\net10.0\ref\MobileHub.Infrastructure.dll
+C:/New folder/MobileHub.Infrastructure/bin/Debug/net10.0/MobileHub.Infrastructure.deps.json
+C:/New folder/MobileHub.Infrastructure/bin/Debug/net10.0/MobileHub.Infrastructure.runtimeconfig.json
+C:/New folder/MobileHub.Infrastructure/bin/Debug/net10.0/MobileHub.Infrastructure.dll
+C:/New folder/MobileHub.Infrastructure/bin/Debug/net10.0/MobileHub.Infrastructure.pdb
+C:/New folder/MobileHub.Infrastructure/bin/Debug/net10.0/MobileHub.Application.dll
+C:/New folder/MobileHub.Infrastructure/bin/Debug/net10.0/MobileHub.Domain.dll
+C:/New folder/MobileHub.Infrastructure/bin/Debug/net10.0/MobileHub.Domain.pdb
+C:/New folder/MobileHub.Infrastructure/bin/Debug/net10.0/MobileHub.Application.pdb
+C:/New folder/MobileHub.Infrastructure/obj/Debug/net10.0/MobileHub.Infrastructure.csproj.AssemblyReference.cache
+C:/New folder/MobileHub.Infrastructure/obj/Debug/net10.0/MobileHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/New folder/MobileHub.Infrastructure/obj/Debug/net10.0/MobileHub.Infrastructure.AssemblyInfoInputs.cache
+C:/New folder/MobileHub.Infrastructure/obj/Debug/net10.0/MobileHub.Infrastructure.AssemblyInfo.cs
+C:/New folder/MobileHub.Infrastructure/obj/Debug/net10.0/MobileHub.Infrastructure.csproj.CoreCompileInputs.cache
+C:/New folder/MobileHub.Infrastructure/obj/Debug/net10.0/MobileHu.BDF83086.Up2Date
+C:/New folder/MobileHub.Infrastructure/obj/Debug/net10.0/MobileHub.Infrastructure.dll
+C:/New folder/MobileHub.Infrastructure/obj/Debug/net10.0/refint/MobileHub.Infrastructure.dll
+C:/New folder/MobileHub.Infrastructure/obj/Debug/net10.0/MobileHub.Infrastructure.pdb
+C:/New folder/MobileHub.Infrastructure/obj/Debug/net10.0/MobileHub.Infrastructure.genruntimeconfig.cache
+C:/New folder/MobileHub.Infrastructure/obj/Debug/net10.0/ref/MobileHub.Infrastructure.dll
+/workspaces/MobileHub/MobileHub.Infrastructure/obj/Debug/net10.0/MobileHub.Infrastructure.csproj.AssemblyReference.cache
+/workspaces/MobileHub/MobileHub.Infrastructure/obj/Debug/net10.0/MobileHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MobileHub/MobileHub.Infrastructure/obj/Debug/net10.0/MobileHub.Infrastructure.AssemblyInfoInputs.cache
+/workspaces/MobileHub/MobileHub.Infrastructure/obj/Debug/net10.0/MobileHub.Infrastructure.AssemblyInfo.cs
+/workspaces/MobileHub/MobileHub.Infrastructure/obj/Debug/net10.0/MobileHub.Infrastructure.csproj.CoreCompileInputs.cache
+/workspaces/MobileHub/MobileHub.Infrastructure/obj/Debug/net10.0/MobileHub.Infrastructure.sourcelink.json
+/workspaces/MobileHub/MobileHub.Infrastructure/obj/Debug/net10.0/MobileHub.Infrastructure.dll
+/workspaces/MobileHub/MobileHub.Infrastructure/obj/Debug/net10.0/refint/MobileHub.Infrastructure.dll
+/workspaces/MobileHub/MobileHub.Infrastructure/obj/Debug/net10.0/MobileHub.Infrastructure.pdb
+/workspaces/MobileHub/MobileHub.Infrastructure/bin/Debug/net10.0/MobileHub.Infrastructure.deps.json
+/workspaces/MobileHub/MobileHub.Infrastructure/bin/Debug/net10.0/MobileHub.Infrastructure.runtimeconfig.json
+/workspaces/MobileHub/MobileHub.Infrastructure/bin/Debug/net10.0/MobileHub.Infrastructure.dll
+/workspaces/MobileHub/MobileHub.Infrastructure/bin/Debug/net10.0/MobileHub.Infrastructure.pdb
+/workspaces/MobileHub/MobileHub.Infrastructure/bin/Debug/net10.0/MobileHub.Application.dll
+/workspaces/MobileHub/MobileHub.Infrastructure/bin/Debug/net10.0/MobileHub.Domain.dll
+/workspaces/MobileHub/MobileHub.Infrastructure/bin/Debug/net10.0/MobileHub.Domain.pdb
+/workspaces/MobileHub/MobileHub.Infrastructure/bin/Debug/net10.0/MobileHub.Application.pdb
+/workspaces/MobileHub/MobileHub.Infrastructure/obj/Debug/net10.0/MobileHu.BDF83086.Up2Date
+/workspaces/MobileHub/MobileHub.Infrastructure/obj/Debug/net10.0/MobileHub.Infrastructure.genruntimeconfig.cache
+/workspaces/MobileHub/MobileHub.Infrastructure/obj/Debug/net10.0/ref/MobileHub.Infrastructure.dll
