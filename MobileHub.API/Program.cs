@@ -28,7 +28,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("Angular", policy =>
     {
-        policy.WithOrigins("http://localhost:4200")
+        policy.WithOrigins("https://sonumobiles.netlify.app")
               .AllowAnyHeader()
               .AllowAnyMethod();
     });
@@ -65,7 +65,7 @@ app.UseCors("Angular");
 app.UseAuthentication();
 
 app.UseAuthorization();
-
+app.MapGet("/", () => "MobileHub API is running successfully!");
 app.MapControllers();
 
 app.Run();
